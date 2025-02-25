@@ -30,4 +30,4 @@ Para este desafio foram feitos desenvolvimentos na plataforma Microsoft Azure:
 
 Após verificações e testes concluí que este tipo de ferramenta em nossas mãos no dia a dia é como ter um "super poder", trazendo maior agilidade e performance em pesquisas específicas para indexação
 e consulta de dados de forma rápida, fácil e também com base nos sentimentos do cliente. Com a inteligência artificial de forma eficaz os resultados dos sentimentos dos clientes, é possível atingir desde 
-novos nichos de mercado expandindo seus serviços e ficar a frente de concorrentes.
+novos nichos de mercado expandindo seus serviços e ficar a frente de fortes concorrentes. 
